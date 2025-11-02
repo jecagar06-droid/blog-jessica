@@ -1,0 +1,33 @@
+body {
+    background-image: url(https://img.freepik.com/fotos-premium/estado-animo-positivo-e-innovador-fondo-hojas-coloridas_302321-6102.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+div {
+    text-align: left;
+}
+
+h1, h2 {
+    color: blueviolet;
+    font-family: cursive;
+}
+
+.nombre {
+    font-size: 50px;
+}
+.nombre:hover {
+    color: blue;
+}
+
+.imagen_principal {
+    border-radius: 5%;
+    box-shadow: 1em;
+}
+.imagen_principal:hover {
+    border-style: solid;
+    border-color: green;
+}
+
